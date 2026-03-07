@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**sebyaka864/sebyaka864** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm seby
 
-Here are some ideas to get you started:
+💻 Windows optimization enthusiast  
+🛠 Working on Windows tweaks and performance guides  
+📚 Learning about Windows  
+🌐 Building a Windows optimization guide website  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Current Projects
+
+🔧 **Windows Guide**  
+A step-by-step guide for:
+- clean Windows installs
+- system optimization
+- performance tweaks
+- removing unnecessary bloat
+
+👉 https://sebyaka864.github.io/
+
+---
+
+## 🧰 Tech / Tools
+
+- Windows
+- Git & GitHub
+- Docusaurus
+- JavaScript
+- Markdown
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sebyaka864&show_icons=true&theme=dark)
+
+---
