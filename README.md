@@ -30,10 +30,4 @@ A step-by-step guide for:
 - JavaScript
 - Markdown
 
----
-
-## 📊 GitHub Stats
-
-![trophy](https://github-profile-trophy.vercel.app/?username=sebyaka864&theme=darkhub)
-
----
+----
