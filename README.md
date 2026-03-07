@@ -34,6 +34,6 @@ A step-by-step guide for:
 
 ## 📊 GitHub Stats
 
-[GitHub stats](https://github-readme-stats.vercel.app/api?username=sebyaka864&show_icons=true&theme=tokyonight&hide_border=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=sebyaka864&theme=darkhub)
 
 ---
