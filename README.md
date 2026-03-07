@@ -3,8 +3,7 @@
 # I'm seby
 
 💻 Windows optimization enthusiast  
-🛠 Working on Windows tweaks and performance guides  
-📚 Learning about Windows internals  
+📚 Learning about Windows 
 🌐 Building a Windows optimization guide website  
 
 ---
