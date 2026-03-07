@@ -20,7 +20,7 @@ A step-by-step guide for:
 
 All of that **without breaking apps or Windows features**.
 
-👉 https://sebyaka864.github.io/
+👉 [GUIDE for Windows](https://sebyaka864.github.io/windows-guide/)
 
 ---
 
