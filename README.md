@@ -4,7 +4,7 @@
 
 💻 Windows optimization enthusiast  
 🛠 Working on Windows tweaks and performance guides  
-📚 Learning about Windows  
+📚 Learning about Windows internals  
 🌐 Building a Windows optimization guide website  
 
 ---
@@ -12,12 +12,15 @@
 ## 🚀 Current Projects
 
 🔧 **Windows Guide**  
+
 A step-by-step guide for:
 - clean Windows installs
 - system optimization
 - disabling telemetry
 - removing unnecessary bloat
- and all that without breaking apps or features 
+
+All of that **without breaking apps or Windows features**.
+
 👉 https://sebyaka864.github.io/
 
 ---
@@ -28,6 +31,5 @@ A step-by-step guide for:
 - Git & GitHub
 - Docusaurus
 - JavaScript
-- Markdown
 
-----
+---
