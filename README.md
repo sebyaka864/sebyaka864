@@ -15,9 +15,9 @@
 A step-by-step guide for:
 - clean Windows installs
 - system optimization
-- performance tweaks
+- disabling telemetry
 - removing unnecessary bloat
-
+ and all that without breaking apps or features 
 👉 https://sebyaka864.github.io/
 
 ---
