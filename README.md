@@ -1,34 +1,25 @@
 
 
-# I'm seby
+# i'm seby
 
-💻 Windows optimization enthusiast  
-📚 Learning about Windows  
-🌐 Building a Windows optimization guide website  
+💻 windows optimization person
+📚 learning about Windows  
+🌐 building a Windows optimization guide website (if i feel like it)  
 
 ---
 
-## 🚀 Current Projects
+## 🚀 current Projects
 
-🔧 **Windows Guide**  
+🔧 **windows guide**  
 
-A step-by-step guide for:
+a step-by-step guide for:
 - clean Windows installs
 - system optimization
 - disabling telemetry
 - removing unnecessary bloat
 
-All of that **without breaking apps or Windows features**.
+all of that **without breaking apps or Windows features**.
 
 👉 [GUIDE for Windows](https://sebyaka864.github.io/windows-guide/)
-
----
-
-## 🧰 Tech / Tools
-
-- Windows
-- Git & GitHub
-- Docusaurus
-- JavaScript
 
 ---
