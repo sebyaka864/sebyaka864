@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 current Projects
+## 🚀 current projects
 
 🔧 **windows guide**  
 
@@ -18,7 +18,7 @@ a step-by-step guide for:
 - disabling telemetry
 - removing unnecessary bloat
 
-all of that **without breaking apps or Windows features**.
+all of that **without breaking apps or windows features**.
 
 👉 [GUIDE for Windows](https://sebyaka864.github.io/windows-guide/)
 
