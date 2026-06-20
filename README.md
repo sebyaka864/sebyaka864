@@ -2,15 +2,15 @@
 
 # i'm seby
 
-💻 windows optimization person
-📚 learning about Windows  
-🌐 building a Windows optimization guide website (if i feel like it)  
+windows optimization person
+learning about Windows
+building a Windows optimization guide website (if i feel like it)  
 
 ---
 
-## 🚀 current projects
+##  current projects
 
-🔧 **windows guide**  
+**windows guide**  
 
 a step-by-step guide for:
 - clean Windows installs
@@ -20,6 +20,6 @@ a step-by-step guide for:
 
 all of that **without breaking apps or windows features**.
 
-👉 [GUIDE for Windows](https://sebyaka864.github.io/windows-guide/)
+[GUIDE for Windows](https://sebyaka864.github.io/windows-guide/)
 
 ---
